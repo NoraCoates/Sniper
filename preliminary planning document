@@ -1,0 +1,96 @@
+Some of this stuff is entirely unfeasible, so don't take this as gospel! This is just the first few thoughts I and my friends had while designing the game.
+
+team (stalkers? 4 players? could be more/less, at least 2) versus sniper
+neighborhood details: interesting houses, populations; some neighborhoods have more/better hiding spots?
+Points win/loss based?
+Sniper has limited shots; 1 or 2 plus number of players?
+Slow rate of fire/small hitbox; people need to aim
+Voice chat/sounds/etc proximity based
+  60 ft: hear faintly
+  30 ft: decent clarity
+  5 ft: can hear whispers
+  This can be done on my end
+  Forces people to pay attention to game environment/ their own input/output volume
+    Maybe we could have them all equalize at the beginning? “Change your volume until you can hear this sound clearly”?
+Everyone spawns in the same area, even the sniper
+  Sniper gets time to run off and hide
+  Everyone else separates from there after time limit (honor rules?)
+Time of day has an effect
+  nighttime: harder to see
+  noon: harder to hide
+  dawn/dusk: sun in your face
+  clouds: no effect, easy mode?
+  Rain? Dampens sound?
+Intermittent cars, ppl walking by, etc
+  shouldn’t insta-kill but cars mean you can’t cross the street
+  ppl might give you away?
+  more likely to just be flavor
+Each character has unique skills/handicaps; whether sniper or not (tied to model?)
+  e.g. A is faster but B is smaller and can hide more easily and C can throw their voice
+  But A is wearing a red shirt, B is slower, and C is can’t hide behind small things
+‘loose’ rules
+  can’t move if sniper (after getting into position of course)
+    small area in which you're allowed to move?
+no teamspeak?
+  silent emotes
+    point/beckon, shh, stop, etc
+honor system
+  should feel community based
+    team matchups and/or invite friends
+If someone is blatantly cheating you should be able to do something about it; if the sniper is running around and shooting people you should be able to report them
+  Can lead to bullying
+Non-snipers get melee weapons?
+  definitely shorter range
+All nerf, etc
+should feel like kids in a neighborhood
+Throw shoes for distraction
+  2 chances
+  should make it harder to run somehow?
+Camo?
+Asymmetric:
+  4ish ‘stalkers’ to 1 sniper
+  Each individual different?
+  premade builds
+  if they’re different sizes, should have an effect on hiding
+Problems:
+  4v1 isolating for the 1
+  Honor rules should be enforced if there’s blatant offenses
+  Voting systems mean people can gang up
+Solutions:
+  Rotation of roles
+  everyone votes on who to be sniper, or
+  Can choose to be sniper or not in team matchup?
+  Voice chat
+  sniper can hear what the team is saying (distance)
+  3 strike system?
+  if everyone/majority votes someone cheated, they get a strike; enough strikes gets a handicap (not booted, that’s extreme and ruins the game)
+  handicaps:
+    colored bright orange, wearing tap-dancing shoes, have to tag sniper instead of shooting them, etc
+Examples:
+  4v1
+  Dead by daylight
+    Survivors turn on generators then escape; killer finds survivors and kills them
+    team often too powerful with perks; fix by not having perks?
+    Unique abilities for killer; teamwork for survivors
+Evolve
+  isolating for monster
+  fix by letting listen in on chat?
+  Rotation of roles?
+  bad ability balance; unfair for the 1
+  fix by having only variation be sniper rifle, maybe
+  better hiding for sniper? (ghillie suit?)
+Technical stuff:
+  Photon Unity Network / PUN (free version allows to network up to 20 people at once, more than enough)
+  3d models
+    players
+    weapons
+    obstacles
+    1st person controller
+  bullets should register hits but maybe not automatic down (maybe within a certain range?)
+  sniper needs accountability
+
+Street should have little cover but sniper can only cover one end at a time
+Stalkers can move between backyards
+No points at which you can see and not be seen (someone can always come from behind)
+Starting backyard has multiple exits
+No going inside houses/cars (sheds maybe)
